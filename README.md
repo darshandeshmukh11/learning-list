@@ -1,4 +1,5 @@
 ### A curated list of learning resources for CI/CD and DevOps implementation.
+This list is gathered by me for my own learning and I have no direct promotional OR financial connection with the resource owners. Hopefully it will be usefull for others as well. 
 If you would like to contribute, please submit a PR and I will be happy to include it in my list.
 
 #### Docker
