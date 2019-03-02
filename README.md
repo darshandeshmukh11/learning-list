@@ -6,6 +6,7 @@ If you would like to contribute, please submit a PR and I will be happy to inclu
 - [Dive Into Docker: From "What is Docker?" to "Hello World"](https://www.youtube.com/watch?v=XeSD17YRijk&list=PL-v3vdeWVEsXT-u0JDQZnM90feU3NE3v8) by [@nickjanetakis](https://github.com/nickjj)
 - [Valuable Docker links](https://www.nkode.io/2014/08/24/valuable-docker-links.html)
 - [Katakoda](https://www.katacoda.com/courses/docker) - Browser based lab
+- [Community lab for beginner](https://github.com/docker/labs/tree/master/beginner)
 
 
 
