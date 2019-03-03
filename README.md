@@ -13,6 +13,12 @@ If you would like to contribute, please submit a PR and I will be happy to inclu
 #### Kubernetes
 - [Learn the Kubernetes Key Concepts in 10 Minutes](http://omerio.com/2015/12/18/learn-the-kubernetes-key-concepts-in-10-minutes/)
 - [Learn Kubernetes](https://www.katacoda.com/courses/kubernetes) - Katakoda browser based lab
+- Learn Devops Kubernetes deployment by kops and terraform - http://bit.ly/2SYynLY
+- Just enough kubernetes to be dangerous - http://bit.ly/2IwtNjj
+- Containers 101 - http://bit.ly/2U5BYEG
+- Kubernetes Quick Basics with Docker - http://bit.ly/2Tdm11P
+- Net DevOps: Cisco Python, Automation, NETCONF, SDN, Docker - http://bit.ly/2BPvJxs
+
 
 
 
