@@ -28,6 +28,7 @@ If you would like to contribute, please submit a PR and I will be happy to inclu
 
 #### Ansible
 - [Ansible interactive tutorial](https://github.com/turkenh/ansible-interactive-tutorial)
+- [Ansible tutorials](https://github.com/leucos/ansible-tuto)
 
 
 #### Terraform
